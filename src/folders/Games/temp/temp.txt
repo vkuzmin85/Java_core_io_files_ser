@@ -1,13 +1,13 @@
-2022-8-24 16:22:37 создан каталог C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\src
-2022-8-24 16:22:37 создан каталог C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\res
-2022-8-24 16:22:37 создан каталог C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\savegames
-2022-8-24 16:22:37 создан каталог C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\temp
-2022-8-24 16:22:37 создан каталог C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\src\main
-2022-8-24 16:22:37 создан каталог C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\src\test
-2022-8-24 16:22:37 создан каталог C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\res\drawables
-2022-8-24 16:22:37 создан каталог C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\res\vectors
-2022-8-24 16:22:37 создан каталог C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\res\icons
-2022-8-24 16:22:37 создан файл C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\src\main\Main.java
-2022-8-24 16:22:37 создан файл C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\src\main\Utils.java
-2022-8-24 16:22:37 создан файл C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\temp\temp.txt
-Все файлы и каталоги созданы успешно
+2022-8-24 16:22:37 СЃРѕР·РґР°РЅ РєР°С‚Р°Р»РѕРі C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\src
+2022-8-24 16:22:37 СЃРѕР·РґР°РЅ РєР°С‚Р°Р»РѕРі C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\res
+2022-8-24 16:22:37 СЃРѕР·РґР°РЅ РєР°С‚Р°Р»РѕРі C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\savegames
+2022-8-24 16:22:37 СЃРѕР·РґР°РЅ РєР°С‚Р°Р»РѕРі C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\temp
+2022-8-24 16:22:37 СЃРѕР·РґР°РЅ РєР°С‚Р°Р»РѕРі C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\src\main
+2022-8-24 16:22:37 СЃРѕР·РґР°РЅ РєР°С‚Р°Р»РѕРі C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\src\test
+2022-8-24 16:22:37 СЃРѕР·РґР°РЅ РєР°С‚Р°Р»РѕРі C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\res\drawables
+2022-8-24 16:22:37 СЃРѕР·РґР°РЅ РєР°С‚Р°Р»РѕРі C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\res\vectors
+2022-8-24 16:22:37 СЃРѕР·РґР°РЅ РєР°С‚Р°Р»РѕРі C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\res\icons
+2022-8-24 16:22:37 СЃРѕР·РґР°РЅ С„Р°Р№Р» C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\src\main\Main.java
+2022-8-24 16:22:37 СЃРѕР·РґР°РЅ С„Р°Р№Р» C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\src\main\Utils.java
+2022-8-24 16:22:37 СЃРѕР·РґР°РЅ С„Р°Р№Р» C:\Users\vladimir\IdeaProjects\installing\src\folders\Games\temp\temp.txt
+Р’СЃРµ С„Р°Р№Р»С‹ Рё РєР°С‚Р°Р»РѕРіРё СЃРѕР·РґР°РЅС‹ СѓСЃРїРµС€РЅРѕ
